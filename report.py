@@ -1,1 +1,1 @@
-BASE_URL = "https://products.azon.example.io"
+BASE_URL = "https://staging.azon.example.io"
